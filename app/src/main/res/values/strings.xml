@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">maranonQuiz1</string>
+    <string-array name="androidVersions">
+        <item>Android 1.6  Donut</item>
+        <item>Android 4.4 - 4.4.4 Kitkat</item>
+        <item>Android 8.0 Oreo</item>
+    </string-array>
+    <string-array name="androidYears">
+        <item>2009-2011</item>
+        <item>2013-present</item>
+        <item>2017-present</item>
+    </string-array>
+</resources>
